@@ -1,21 +1,30 @@
-# Project Title
+# Projeto 1 - Guia incial
 
-One Paragraph of project description goes here
+Esse projeto foi desenvolvidor com o objetivo de auxliar os desenvolvedores Jr jr jr a virarem Fucking Full Stacks na prática
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Para iniciar o projeto e trabalhar em suas dependencias indicamos que vocês tenham conhecimentos avançados em liguagem de marcação (HTML), estilização (css), Programação (javascript) e alguns recursos e frameworks.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+* NODE JS
+* MongoDB
+* Apache 2
+* VSCode
+* Terminal Bash
+* Github/Gitlab/Bitbucket
 
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Faça o clone do projeto em seu servidor e edite o arquivo config.js com os dados de acesso do banco de dados, a instalação do banco também é necessária (nome do banco: project.db)
 
 
 ## Authors
 
-* **Lucaum** - *Did wot?* - [my perfil](https://github.com/who???)
+* **Lucaum** - *Frontend/Documentation* - [my perfil](https://github.com/LGondin)
+
+*italico*  
+**bold**  
+[Link](https://github.com/who???)
